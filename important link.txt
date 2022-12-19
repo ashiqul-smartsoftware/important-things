@@ -28,3 +28,5 @@ netflix clone youtube video:-https://www.youtube.com/watch?v=ATz8wg6sg30
 git link:-https://github.com/fireclint/netflix-react-tailwind/blob/main/src/components/Navbar.jsx
 
 netflix clone site (react example) https://reactjsexample.com/tag/netflix/
+
+movie api site--> https://www.themoviedb.org/
