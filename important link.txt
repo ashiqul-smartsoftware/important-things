@@ -30,3 +30,5 @@ git link:-https://github.com/fireclint/netflix-react-tailwind/blob/main/src/comp
 netflix clone site (react example) https://reactjsexample.com/tag/netflix/
 
 movie api site--> https://www.themoviedb.org/
+
+navbar scroll-->https://www.geeksforgeeks.org/how-to-change-the-navbar-color-when-you-scroll-in-reactjs/
