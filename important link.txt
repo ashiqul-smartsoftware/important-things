@@ -38,3 +38,7 @@ laravel dynamic menu and submenu
 ---------------------------------
 https://www.youtube.com/watch?v=K6XLmtWEgPQ  
 https://www.youtube.com/watch?v=THN5Q8JBeDM
+
+laravel react recruite management api
+-----------------------------------
+https://www.youtube.com/watch?v=KOmcc83HuIA&list=PLOUudhWYmRUPV7JTSeK9g__8j1YSGSAIn&index=16
