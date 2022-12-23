@@ -32,3 +32,9 @@ netflix clone site (react example) https://reactjsexample.com/tag/netflix/
 movie api site--> https://www.themoviedb.org/
 
 navbar scroll-->https://www.geeksforgeeks.org/how-to-change-the-navbar-color-when-you-scroll-in-reactjs/
+
+
+laravel dynamic menu and submenu
+---------------------------------
+https://www.youtube.com/watch?v=K6XLmtWEgPQ  
+https://www.youtube.com/watch?v=THN5Q8JBeDM
