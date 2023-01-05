@@ -84,3 +84,7 @@ https://blog.openreplay.com/fetching-data-in-redux-using-rtk-query/#:~:text=RTK%
 rtk example two
 --------------------------------------
 https://www.positronx.io/react-fetch-data-with-redux-toolkit-rtk-query-tutorial/
+
+rtk query code example
+-----------------------
+https://github.com/fasasitope123/rtk-query-tut
