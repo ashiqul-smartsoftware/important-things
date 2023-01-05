@@ -33,6 +33,12 @@ movie api site--> https://www.themoviedb.org/
 
 navbar scroll-->https://www.geeksforgeeks.org/how-to-change-the-navbar-color-when-you-scroll-in-reactjs/
 
+react redux example
+---------------------
+https://codesandbox.io/s/react-redux-fetch-data-from-api-c5ml1?file=/src/reducers/reducers.js
+
+
+
 
 laravel dynamic menu and submenu
 ---------------------------------
