@@ -76,3 +76,11 @@ https://www.kindacode.com/article/how-to-create-a-filter-search-list-in-react/
 Laravel — React Fullstack Application with Passport, Redux and Material UI (Frontend)
 ---------------------------------
 https://medium.com/technology-hits/laravel-react-fullstack-application-with-passport-redux-and-material-ui-frontend-5c39cf6d7ba4
+
+rtk query example
+---------------------------------
+https://blog.openreplay.com/fetching-data-in-redux-using-rtk-query/#:~:text=RTK%20Query%20is%20a%20powerful,fetching%20and%20caching%20logic%20yourself.
+
+rtk example two
+--------------------------------------
+https://www.positronx.io/react-fetch-data-with-redux-toolkit-rtk-query-tutorial/
