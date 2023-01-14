@@ -88,3 +88,7 @@ https://www.positronx.io/react-fetch-data-with-redux-toolkit-rtk-query-tutorial/
 rtk query code example
 -----------------------
 https://github.com/fasasitope123/rtk-query-tut
+
+slick slider options
+-------------------------------
+https://github.com/kenwheeler/slick/#settings
