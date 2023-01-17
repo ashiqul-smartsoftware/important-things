@@ -92,3 +92,9 @@ https://github.com/fasasitope123/rtk-query-tut
 slick slider options
 -------------------------------
 https://github.com/kenwheeler/slick/#settings
+
+
+
+set selected option in dynamica
+----------------------------------
+https://laracasts.com/discuss/channels/laravel/set-selected-option-in-dynamically-created-drop-down-menu
