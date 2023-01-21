@@ -98,3 +98,8 @@ https://github.com/kenwheeler/slick/#settings
 set selected option in dynamica
 ----------------------------------
 https://laracasts.com/discuss/channels/laravel/set-selected-option-in-dynamically-created-drop-down-menu
+
+
+rtk query crud
+---------------------
+https://dev.to/raaynaldo/rtk-query-tutorial-crud-51hl
