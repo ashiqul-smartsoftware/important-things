@@ -103,3 +103,7 @@ https://laracasts.com/discuss/channels/laravel/set-selected-option-in-dynamicall
 rtk query crud
 ---------------------
 https://dev.to/raaynaldo/rtk-query-tutorial-crud-51hl
+
+laravel api auth
+--------------------------
+https://dev.to/shanisingh03/laravel-api-authentication-using-laravel-sanctum-edg
