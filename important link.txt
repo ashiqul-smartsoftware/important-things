@@ -107,3 +107,21 @@ https://dev.to/raaynaldo/rtk-query-tutorial-crud-51hl
 laravel api auth
 --------------------------
 https://dev.to/shanisingh03/laravel-api-authentication-using-laravel-sanctum-edg
+
+simple ecommerce react
+-------------------------------
+https://www.youtube.com/watch?v=K3L8J0DbuT8
+
+react filtering
+--------------------------------
+https://www.youtube.com/watch?v=VVhnuOKVHRs&t=4338s
+
+quiz application learn with sumit
+-------------------------------------
+https://youtu.be/W3zMJxCUJAA
+ 
+quiz application youtube
+------------------------------
+https://www.youtube.com/watch?v=ffSuBpMhBOY
+https://www.youtube.com/watch?v=WfbvKbnc3Do
+
