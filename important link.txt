@@ -128,3 +128,9 @@ https://www.youtube.com/watch?v=WfbvKbnc3Do
 react quiz github
 --------------------
 https://github.com/md-kawsar-ali/React-Quiz-App
+
+paginate with react js and laravel api
+--------------------------------------
+https://www.youtube.com/watch?v=hR1FOH17BO8
+
+https://www.youtube.com/watch?v=kMuRr53RjcE
